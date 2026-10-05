@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "loader": "fabric",
     "description": "Tüm desteklenen sürümlerle uyumlu akıllı FPS optimizasyon paketi.",
-    "icon": "textures/logo.png",
+    "icon": "texture/optimizepack.jpg",
     "mods": [
       "AANobbMI",
       "P7dR8mSH",
