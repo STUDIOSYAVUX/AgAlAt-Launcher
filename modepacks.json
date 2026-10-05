@@ -3,9 +3,8 @@
     "id": "optimize-pack",
     "name": "OptimizePack",
     "version": "1.0.0",
-    "game_version": "1.20.1",
     "loader": "fabric",
-    "description": "En yüksek FPS ve akıcılık için özel optimizasyon paketi.",
+    "description": "Tüm desteklenen sürümlerle uyumlu akıllı FPS optimizasyon paketi.",
     "icon": "textures/logo.png",
     "mods": [
       "AANobbMI",
